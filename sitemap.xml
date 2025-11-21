@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+  <!-- Páginas HTML -->
+  <url>
+    <loc>https://aspsillull.github.io/llull/</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/llull.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/umbrales.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/causas.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/pasos.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/obsesion.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/fugas.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/autoestima.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/candor.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/irracional.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/fobia_social.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/panico.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/sudando.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/temblor.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/mirada.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/soledad.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/agresividad.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/alextimia.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/personalidad.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/depresion.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/amor.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/hipersensibilidad.html</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
 
-<url>
-  <loc>https://aspsillull.github.io/llull/</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/umbrales.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/causas.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/pasos.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/obsesion.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/fugas.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/autoestima.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/candor.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/irracional.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/fobia_social.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/panico.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/sudando.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/temblor.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/mirada.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/soledad.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/agresividad.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/alextimia.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/personalidad.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/depresion.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/amor.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/hipersensibilidad.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/guia_angustiados.pdf</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/cuentos_terapeuticos.pdf</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/narratoterapia.pdf</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/principios_psicoterapia_cognitiva.pdf</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aspsillull.github.io/llull/llull.html</loc>
-  <lastmod>2025-11-18T00:49:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
+  <!-- PDFs -->
+  <url>
+    <loc>https://aspsillull.github.io/llull/guia_angustiados.pdf</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/cuentos_terapeuticos.pdf</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/narratoterapia.pdf</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://aspsillull.github.io/llull/principios_psicoterapia_cognitiva.pdf</loc>
+    <lastmod>2025-11-21</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
